@@ -1,0 +1,6 @@
+const h1 = document.querySelector('h1')
+console.log(h1)
+const pragraph = document.querySelectorAll('.prag')
+console.log(pragraph)
+const button = document.querySelector('#btn')
+console.log(button)
